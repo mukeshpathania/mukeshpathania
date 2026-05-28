@@ -14,24 +14,67 @@
 
 ## 🧠 About Me
 
-```python
-class MukeshPathania:
-    name       = "Mukesh Pathania"
-    pronouns   = "he/him"
-    location   = "Kangra, Himachal Pradesh 🏔️"
-    education  = "MCA @ Central University of Himachal Pradesh"
-    email      = "pathaniamukesh005@gmail.com"
+<div align="center">
 
-    currently_building = [
-        "Fullstack LLM Chatbot 🤖",
-        "PDF Chat Bot using RAG 📄",
-        "Hotel Menu Chatbot 🍽️",
-    ]
+<h2>Hi, I'm Mukesh Pathania 👋</h2>
+<h3>Python AI / ML Developer | MCA Student | Builder of Intelligent Systems</h3>
 
-    skills     = ["Machine Learning", "Deep Learning", "NLP", "Data Analysis"]
-    tools      = ["Python", "FastAPI", "LangChain", "Vector DBs", "OpenCV"]
-    fun_fact   = "45 contributions and counting — every commit tells a story 📈"
-```
+![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-4ECDC4?style=for-the-badge)
+![ML](https://img.shields.io/badge/Learning-Machine%20Learning-2D4A6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Building-RAG%20%26%20LLM%20Apps-0D1117?style=for-the-badge)
+
+</div>
+
+I am a passionate **Python AI / ML Developer** from **Kangra, Himachal Pradesh**, completed **MCA at Central University of Himachal Pradesh**. I love turning ideas into practical AI projects, especially chatbots, RAG pipelines, data analysis tools, and machine learning models that solve real problems.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>🚀 Building</h3>
+
+<ul>
+  <li>🤖 Fullstack LLM Chatbot</li>
+  <li>📄 PDF Chat Bot using RAG</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🧩 Exploring</h3>
+
+<ul>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>NLP & RAG Systems</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🛠️ Toolkit</h3>
+
+<ul>
+  <li>Python, FastAPI</li>
+  <li>LangChain, Vector DBs</li>
+  <li>OpenCV, Pandas</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<b>Goal:</b> Keep learning, keep shipping, and build AI tools that are simple, useful, and impactful.
+
+<br/><br/>
+
+<i>"Every commit is one more step toward becoming better."</i>
+
+<p>📫 <b>Reach me at:</b> <a href="mailto:pathaniamukesh005@gmail.com">pathaniamukesh005@gmail.com</a></p>
+
+</div>
 
 ---
 
