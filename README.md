@@ -220,32 +220,12 @@
 
 <div align="center">
 
-### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukeshpathania&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub trophies"/>
 
-<br/>
-
-### 📈 Activity & Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshpathania&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=FFFFFF&border_radius=12" width="47%" alt="GitHub stats"/>&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshpathania&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF&border_radius=12" width="40%" alt="Top languages"/>
-
-<br/>
 
 ### 🔥 Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mukeshpathania&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=8B949E&border_radius=12" width="70%" alt="GitHub streak stats"/>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mukeshpathania/mukeshpathania/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mukeshpathania/mukeshpathania/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mukeshpathania/mukeshpathania/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
 
 <br/>
 
