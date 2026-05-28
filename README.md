@@ -27,7 +27,7 @@
 
 I am a passionate **Python AI / ML Developer** from **Kangra, Himachal Pradesh**, completed **MCA at Central University of Himachal Pradesh**. I love turning ideas into practical AI projects, especially chatbots, RAG pipelines, data analysis tools, and machine learning models that solve real problems.
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
