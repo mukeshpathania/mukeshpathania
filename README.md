@@ -85,16 +85,16 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/mukeshpathania">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:pathaniamukesh005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/mukeshpathania">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://mukeshpathaniaportfolio.vercel.app/" target="blank">
-   <img src="https://img.shields.io/badge/%20Portfolio-Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/%20Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
