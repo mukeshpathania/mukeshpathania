@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://mukeshpathaniaportfolio.vercel.app/" target="blank">
-   <img src="https://img.shields.io/badge/🚀%20Portfolio-Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/%20Portfolio-Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
