@@ -93,8 +93,8 @@
 <a href="https://github.com/mukeshpathania">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/mukeshpathania/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://mukeshpathaniaportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
