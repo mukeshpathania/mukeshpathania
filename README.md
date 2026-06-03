@@ -225,7 +225,11 @@
 
 ### 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mukeshpathania&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=8B949E&border_radius=12" width="70%" alt="GitHub streak stats"/>
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mukeshpathania&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=8B949E&border_radius=12" width="70%" />
+</p>
 
 <br/>
 
