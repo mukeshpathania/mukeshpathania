@@ -220,11 +220,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshpathania&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mukeshpathania&show_icons=true&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshpathania&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshpathania&layout=compact&theme=radical&hide_border=true" width="49%"/> -->
 
-<br><br>
+<!-- <br><br> -->
 
 ### 🔥 Streak
 
