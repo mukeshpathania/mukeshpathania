@@ -220,18 +220,17 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshpathania&show_icons=true&theme=radical&hide_border=true" width="49%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshpathania&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
+<br><br>
 
 ### 🔥 Streak
 
-### 🔥 Streak
+<img src="https://streak-stats.demolab.com?user=mukeshpathania&theme=radical&hide_border=true&background=0D1117" width="70%"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mukeshpathania&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=8B949E&border_radius=12" width="70%" />
-</p>
-
-<br/>
+</div>
 
 ### 📉 Contribution Graph
 
